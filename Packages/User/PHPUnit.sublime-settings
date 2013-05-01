@@ -1,0 +1,4 @@
+{
+    "phpunit_xml_location_hints": [ "config" ],
+    "debug": 0
+}

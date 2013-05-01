@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/PHP-Twig/Extras/Themes/Monokai Dark.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"folder_exclude_patterns":
+	[
+		"build",
+		".git",
+		"app/cache"
+	],
+	"font_face": "Consolas",
+	"font_size": 10.4,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"reveal-on-activate": false
+}

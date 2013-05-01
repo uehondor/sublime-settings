@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Git",
+		"Package Control",
+		"PHP Code Coverage",
+		"PHP-Twig",
+		"Phpcs",
+		"PHPUnit",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"Vagrant"
+	]
+}
