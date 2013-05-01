@@ -1,4 +1,0 @@
-[
- 	{ "keys": ["ctrl+j"], "command": "code_intel_auto_complete" },
- 	{ "keys": ["ctrl+b"], "command": "goto_python_definition" }
-]
